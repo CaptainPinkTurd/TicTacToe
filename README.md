@@ -1,2 +1,0 @@
-# TicTacToe
- Non WPF version

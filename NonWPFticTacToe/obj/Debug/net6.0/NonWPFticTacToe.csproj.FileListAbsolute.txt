@@ -1,0 +1,15 @@
+C:\Users\domin\source\repos\NonWPFticTacToe\NonWPFticTacToe\bin\Debug\net6.0\NonWPFticTacToe.exe
+C:\Users\domin\source\repos\NonWPFticTacToe\NonWPFticTacToe\bin\Debug\net6.0\NonWPFticTacToe.deps.json
+C:\Users\domin\source\repos\NonWPFticTacToe\NonWPFticTacToe\bin\Debug\net6.0\NonWPFticTacToe.runtimeconfig.json
+C:\Users\domin\source\repos\NonWPFticTacToe\NonWPFticTacToe\bin\Debug\net6.0\NonWPFticTacToe.dll
+C:\Users\domin\source\repos\NonWPFticTacToe\NonWPFticTacToe\bin\Debug\net6.0\NonWPFticTacToe.pdb
+C:\Users\domin\source\repos\NonWPFticTacToe\NonWPFticTacToe\obj\Debug\net6.0\NonWPFticTacToe.csproj.AssemblyReference.cache
+C:\Users\domin\source\repos\NonWPFticTacToe\NonWPFticTacToe\obj\Debug\net6.0\NonWPFticTacToe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\domin\source\repos\NonWPFticTacToe\NonWPFticTacToe\obj\Debug\net6.0\NonWPFticTacToe.AssemblyInfoInputs.cache
+C:\Users\domin\source\repos\NonWPFticTacToe\NonWPFticTacToe\obj\Debug\net6.0\NonWPFticTacToe.AssemblyInfo.cs
+C:\Users\domin\source\repos\NonWPFticTacToe\NonWPFticTacToe\obj\Debug\net6.0\NonWPFticTacToe.csproj.CoreCompileInputs.cache
+C:\Users\domin\source\repos\NonWPFticTacToe\NonWPFticTacToe\obj\Debug\net6.0\NonWPFticTacToe.dll
+C:\Users\domin\source\repos\NonWPFticTacToe\NonWPFticTacToe\obj\Debug\net6.0\refint\NonWPFticTacToe.dll
+C:\Users\domin\source\repos\NonWPFticTacToe\NonWPFticTacToe\obj\Debug\net6.0\NonWPFticTacToe.pdb
+C:\Users\domin\source\repos\NonWPFticTacToe\NonWPFticTacToe\obj\Debug\net6.0\NonWPFticTacToe.genruntimeconfig.cache
+C:\Users\domin\source\repos\NonWPFticTacToe\NonWPFticTacToe\obj\Debug\net6.0\ref\NonWPFticTacToe.dll
